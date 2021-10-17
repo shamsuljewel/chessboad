@@ -19,7 +19,7 @@ cd chessboad
 ```
 
 ## Setup Database
-Now create a database into mysql and put it into the .env
+Now create a database into mysql and put it into the .env, so that application can connect to the database.
 
 ## Run migration and seeding
 Run migration and seeders
@@ -35,5 +35,4 @@ Now it's time to run the application by running the webserver.
 
 once it's run visit the browser url, http://127.0.0.1:8000
 
-
-<img src="https://github.com/shamsuljewel/chessboad/tree/master/public/img/application.png" />
+![Screen shoot](https://user-images.githubusercontent.com/2234477/137647731-85faab13-f13f-48a0-b417-7addab5130a2.png)
