@@ -16,6 +16,7 @@ Clone the repository with the command
 ```
 git clone git@github.com:shamsuljewel/chessboad.git
 cd chessboad
+composer update
 ```
 
 ## Setup Database
